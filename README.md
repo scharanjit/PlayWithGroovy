@@ -1,0 +1,1 @@
+#This is a Grails practise project following these tutorials <i>http://grails.asia/grails-tutorial-for-beginners-starting-with-controllers/</i>
